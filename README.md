@@ -7,7 +7,7 @@ A step-by-step project that builds a custom **Amazon VPC** with public and priva
 - **Full visual guide (PDF):** [docs/VPC_Project_Visual_Guide_Bharathi_B.pdf](docs/VPC_Project_Visual_Guide_Bharathi_B.pdf)
 - **Author:** Bharathi B - [LinkedIn](https://www.linkedin.com/in/bharathib19/)
 
-![Architecture](architecture.png)
+![Architecture](architechture.png)
 
 ## Architecture
 
